@@ -17,7 +17,7 @@ function App() {
         <Router
           location={location}
           routes={[
-            { path: "/", element: <Home></Home> },
+            { path: "/motogija", element: <Home></Home> },
             { path: "/automobiliai", element: <CarService></CarService> },
             { path: "/motociklai", element: <BikeService></BikeService> },
             { path: "/kontaktai", element: <Contacts></Contacts> },

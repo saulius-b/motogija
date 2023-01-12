@@ -35,7 +35,7 @@ export default function Header() {
 
   const navLinks = (
     <div className="hidden lg:flex lg:gap-6 lg:text-gray-800 lg:font-poppins ">
-      <Link to={"/"}>
+      <Link to={"/motogija"}>
         <div className="lg:p-2 lg:rounded lg:hover:bg-indigo-600 lg:hover:text-white transition hover:duration-300 ease-in-out ">
           Pradžia
         </div>
@@ -71,7 +71,7 @@ export default function Header() {
     >
       <Link
         onClick={() => setIsNavOpen(false)}
-        to={"/"}
+        to={"/motogija"}
         className="flex justify-between items-center border  p-2 rounded drop-shadow-xl"
       >
         <div> Pradžia</div>
@@ -132,7 +132,7 @@ export default function Header() {
           {navLinks}
         </nav>
 
-        <a href="/" className="flex gap-2">
+        <a href="/motogija" className="flex gap-2">
           <span className="sr-only">Motogija</span>
 
           <img className="h-8 w-auto rounded sm:h-10 self-center" src={MotogijaLogo} alt="" />
