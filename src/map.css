@@ -1,0 +1,30 @@
+
+
+
+  .map-container {
+    width: 25vw;
+    height: 25vh;
+    margin: auto;
+    border-radius: 5px;
+}
+
+@media (max-width: 1024px) {
+  .map-container {
+      width: 40vw;
+      height: 100vh;
+ 
+    
+  }
+}
+
+
+@media (max-width: 640px) {
+    .map-container {
+        width: 80vw;
+        height: 30vh;
+   
+      
+    }
+  }
+
+
