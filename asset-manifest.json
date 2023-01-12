@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/motogija/static/css/main.a2e9f957.css",
-    "main.js": "/motogija/static/js/main.5b62b966.js",
+    "main.js": "/motogija/static/js/main.b4ba67d5.js",
     "static/media/standart.jpeg": "/motogija/static/media/standart.d42ca5b6af076354558c.jpeg",
     "static/media/desktop.jpeg": "/motogija/static/media/desktop.dd1934f3feaab068e9df.jpeg",
     "static/media/motorcycle.svg": "/motogija/static/media/motorcycle.0c2b03fa9115f41358acdc8aabaaebf8.svg",
@@ -14,10 +14,10 @@
     "static/media/facebook.svg": "/motogija/static/media/facebook.6784b16b137b86060b658bd4674f6cf3.svg",
     "static/media/home.svg": "/motogija/static/media/home.6ef260d4e749d6b103f0c97c5946eef3.svg",
     "main.a2e9f957.css.map": "/motogija/static/css/main.a2e9f957.css.map",
-    "main.5b62b966.js.map": "/motogija/static/js/main.5b62b966.js.map"
+    "main.b4ba67d5.js.map": "/motogija/static/js/main.b4ba67d5.js.map"
   },
   "entrypoints": [
     "static/css/main.a2e9f957.css",
-    "static/js/main.5b62b966.js"
+    "static/js/main.b4ba67d5.js"
   ]
 }
