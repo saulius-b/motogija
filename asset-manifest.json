@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/motogija/static/css/main.a2e9f957.css",
+    "main.js": "/motogija/static/js/main.54a2fb60.js",
+    "static/media/standart.jpeg": "/motogija/static/media/standart.d42ca5b6af076354558c.jpeg",
+    "static/media/desktop.jpeg": "/motogija/static/media/desktop.dd1934f3feaab068e9df.jpeg",
+    "static/media/motorcycle.svg": "/motogija/static/media/motorcycle.0c2b03fa9115f41358acdc8aabaaebf8.svg",
+    "static/media/phone.svg": "/motogija/static/media/phone.e6d02384dd47d6c317bb67ae7938aae7.svg",
+    "static/media/pinV4.svg": "/motogija/static/media/pinV4.f0a3346143e1eca1e86a858c5591bd7e.svg",
+    "static/media/car.svg": "/motogija/static/media/car.95328eb198123ebb708ad687fd5f1ecf.svg",
+    "index.html": "/motogija/index.html",
+    "static/media/info.svg": "/motogija/static/media/info.88e6db971239b13b5b66f8ed4012c442.svg",
+    "static/media/gmail.svg": "/motogija/static/media/gmail.0609388dc6c736f9d3e69bea2412754e.svg",
+    "static/media/facebook.svg": "/motogija/static/media/facebook.6784b16b137b86060b658bd4674f6cf3.svg",
+    "static/media/home.svg": "/motogija/static/media/home.6ef260d4e749d6b103f0c97c5946eef3.svg",
+    "main.a2e9f957.css.map": "/motogija/static/css/main.a2e9f957.css.map",
+    "main.54a2fb60.js.map": "/motogija/static/js/main.54a2fb60.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2e9f957.css",
+    "static/js/main.54a2fb60.js"
+  ]
+}
