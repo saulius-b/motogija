@@ -59,9 +59,7 @@ export function BikeService() {
         key={index}
         className="text-xs rounded px-6 py-4 bg-white flex gap-6 flex-col font-light drop-shadow-md my-2 transition hover:bg-slate-100 hover:duration-500 ease-in-out"
       >
-        <div className="text-lg bg-indigo-600 text-white rounded border pl-2 text- font-poppins text-gray-700">
-          {service.jobName}
-        </div>
+        <div className="text-lg bg-indigo-600 text-white rounded border pl-2 text- font-poppins">{service.jobName}</div>
 
         <div className="flex justify-between">
           <div className="bg-black text-white rounded text-center px-2 py-1">
