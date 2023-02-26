@@ -12,7 +12,7 @@ const location = new ReactLocation();
 
 function App() {
   return (
-    <div className="flex flex-col h-screen justify-between max-w-7xl m-auto">
+    <div className="">
       <AnimatePresence mode={"wait"}>
         <Router
           location={location}
@@ -25,9 +25,9 @@ function App() {
         >
           <Header></Header>
           <Outlet></Outlet>
+          <Footer></Footer>
         </Router>
       </AnimatePresence>
-      <Footer></Footer>
     </div>
   );
 }
